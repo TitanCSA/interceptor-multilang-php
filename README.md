@@ -1,5 +1,11 @@
 # Interceptor MultiLang for PHP
 
+<!-- simple-start:start -->
+Use Interceptor MultiLang for PHP from a PHP app.
+
+**Start here.** Run `composer require titancsa/interceptor-multilang`, then try the short example below.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Get the driver without the one-hour demo limit**
 >
