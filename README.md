@@ -1,5 +1,10 @@
 # Interceptor MultiLang for PHP
 
+> [!IMPORTANT]
+> **Get the driver without the one-hour demo limit**
+>
+> On [Discord](https://discord.com/app), choose **Friends → Add Friend**, enter **`titancsa`** and send the project name. Ask about the full **Interceptor** driver for this SDK. TitanCSA shares purchase details privately.
+
 Direct PHP FFI bindings for Windows x64, with the native bridge bundled.
 Requires PHP 8.2+ x64, the FFI extension, and `ffi.enable=true` for your CLI app.
 No Python runtime or subprocess bridge is used.
